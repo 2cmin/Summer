@@ -1,2 +1,6 @@
 def Parent():
      pass
+
+def Child2():
+	pass
+
